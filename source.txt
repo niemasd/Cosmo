@@ -1,0 +1,18 @@
+Cosmo source code
+-----------------
+Just a few things to note about the source code:
+
+-Delphi 3 code. It *might* work with D2 if anybody still uses that; it definitely should work with D4/5.
+
+-This is the code to a beta version. Hence it's got some strange things in it, like menu items that don't (yet) do anything, or which do things taken out of later versions. I won't be updating the source as frequently as the binaries (it's a bit more work) either.
+
+-All of my final builds were compressed with UPX (upx.tsx.org). I recommend you do to!
+
+-If you make any changes/add any features, and they could be useful, please tell me!
+
+-It uses some shared code so you'll need to download the shared code too (LGPStruct, LGPPatch, etc). Wherever you unzip this shared code, make sure that folder is in the search path (Project/Options/Directories).
+
+-If you make any new releases 1) credit me and 2) please tell me!
+
+ficedula@lycos.co.uk
+http://www.legacy-ovwp.org/~ficedula/index.html
